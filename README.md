@@ -1,10 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+GreyMatter's+Profile;I+am+a+beginer+Entrepreneur;Learning+Python+...;I+am+a+Pharmacist+...;Subscribe+GreyMatter's+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
+- ⚡ Fun fact: I'm a Pharmacist by profession...
 
 <img src="https://profile-counter.glitch.me/{Greymattersbot}/count.svg" alt="Greymattersbot :: Visitor's Count" />
 
 <img src="https://komarev.com/ghpvc/?username=Greymattersbot&color=brightgreen" alt="watching_count" />
 
-<h3><b><i>Join us on Telegram 👇</i></b></h3>
+<h3><b><i>Join us on Telegram :-</i></b></h3>
 <p align="center">
 <a href="https://www.telegram.dog/GreyMatter_Bots">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
@@ -12,6 +13,11 @@
   <img src="https://img.shields.io/badge/Join Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
 </p>
+
+<h3><b><i>Our Bot List 🤖 :-</i></b></h3>
+<p align="center">
+<a href="https://t.me/+IezzVbvzlKxlODY1">
+    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 
 <h3><b><i>🏆 Github Statistics :-</i></b></h3>
 <p align="center">
@@ -38,7 +44,7 @@
 <img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
 </p>
 
-<h3><b><i>📡 Get in Touch 👇</i></b></h3>
+<h3><b><i>📡 Get in Touch :-</i></b></h3>
 <a href="https://github.com/Greymattersbot"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://www.instagram.com/GreyMatters_Moksh.658"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://www.telegram.dog/GreyMatter_Bot"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
@@ -57,7 +63,6 @@
 <a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 </p>
 
-- ⚡ Fun fact: I'm a Pharmacist by profession...
 <br>
 <p align="center">
 𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
