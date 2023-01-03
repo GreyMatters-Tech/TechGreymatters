@@ -49,9 +49,8 @@
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/Greymattersbot"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/tahmid.rayat.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/tahmid.rayat.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
 <a href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+
 
 <p align="center">
 𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
