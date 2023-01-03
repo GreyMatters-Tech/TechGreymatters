@@ -1,6 +1,14 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+GreyMatter's+Profile;I+am+a+beginer+Entrepreneur;Learning+Python+...;I+am+a+Pharmacist+...;Subscribe+GreyMatter's+YT+on+YouTube..;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
-- ⚡ Fun fact: I'm a Pharmacist by profession...
 
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇮🇳 <i>Resident of India</i></li>
+<li> 😇 <i>Indian</i></li>
+<li> 😐 <i>Studied at B S Anangpuria Institute of Pharmacy </i></li>
+<li> ❤️ <i>Love Learning Internet Things</i></li>
+<li> 🐍 <i>Trying to learn Python</i></li>
+<li> 🤐 <i>Aim : To get what i love</i></li>
+
+<br>
 <p align="centre">
 <img src="https://profile-counter.glitch.me/{Greymattersbot}/count.svg" alt="Greymattersbot :: Visitor's Count" />
 <img src="https://komarev.com/ghpvc/?username=Greymattersbot&color=brightgreen" alt="watching_count" />
