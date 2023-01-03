@@ -19,6 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Greymattersbot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Greymattersbot&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/Greymattersbot"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Greymattersbot&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+</p>
 
 </div>
 
