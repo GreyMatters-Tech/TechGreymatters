@@ -46,7 +46,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GitHub-092E20?style=for-the-badge&logo=github&logoColor=white" alt="" srcset="">
 <img src="https://img.shields.io/badge/Termux-414141?style=for-the-badge&logo=tmux&logoColor=#1BB91F" alt="">
-<img src="https://img.shields.io/badge/Oracle-E95420?style=for-the-badge&logo=oracle&logoColor=white" alt="">
 </p>
 <p align="center">
 𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
