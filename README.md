@@ -4,7 +4,7 @@
 <li> 🇮🇳 <i>Resident of India</i></li>
 <li> 😇 <i>Indian</i></li>
 <li> 😐 <i>Studied at B S Anangpuria Institute of Pharmacy </i></li>
-<li> ❤️ <i>Love Learning Internet Things</i></li>
+<li> ❤️ <i>Love Learning Internet of Things</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
 <li> 🤐 <i>Aim : To get what i love</i></li>
 
