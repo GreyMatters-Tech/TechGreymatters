@@ -52,13 +52,12 @@
 <br>
 <p align="left">
 <a href="https://www.youtube.com/@GreyMattersYT">
-    &nbsp;<img src="https://img.shields.io/badge/Subscribe GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;</p>
-<p align="right">
+    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersYT"> <img src="https://img.shields.io/youtube/channel/subscribers/UCKmxefKrj5UKCHjZx7dsdpA?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 </p>
 <p align="left">
 <a href="https://www.youtube.com/@GreyMattersBot">
-    &nbsp;<img src="https://img.shields.io/badge/Subscribe GreyMatter's Bot-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;</p>
+    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;</p>
 <p align="right">
 <a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 </p>
