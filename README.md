@@ -5,7 +5,6 @@
 <br>
 <li> 🇮🇳 <i>Resident of India</i></li>
 <li> 😇 <i>Indian</i></li>
-<li> 😐 <i>Studied at B S Anangpuria Institute of Pharmacy </i></li>
 <li> ❤️ <i>Love Learning Internet of Things</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
 <li> 🤐 <i>Aim : To get what i love</i></li>
@@ -62,7 +61,6 @@
 
 <h3><b><i>📡 Get in Touch :-</i></b></h3>
 <a href="https://github.com/Greymattersbot"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://www.instagram.com/GreyMatters_Moksh.658"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://www.telegram.dog/GreyMatter_Bot"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
 
 <br>
