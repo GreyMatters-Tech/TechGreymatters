@@ -4,8 +4,7 @@
 <br>
 <br>
 <li> 😇 <i>Indian</i></li>
-<li> ❤️ <i>Love Learning Internet of Things</i></li>
-<li> 🐍 <i>Trying to learn Python</i></li>
+<li> ❤️ <i>Passionate Explorer in the Realm of IoT, proudly navigating the digital landscape as the visionary behind GreyMatter's Tech.</i></li>
 <li> 🤐 <i>Aim : To get what i love</i></li>
 
 <br>
@@ -26,11 +25,6 @@
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/GreyMatter_Support">
   <img src="https://img.shields.io/badge/Join Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
-  </a>
-
-<h3 align="center"><b><i>Our Bot List 🤖 :-</i></b>
-<h3 align="center"><a href="https://t.me/+IezzVbvzlKxlODY1">
-    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot List-blue?style=flat-square&logo=telegram" width="200" height="30">
   </a>
 
 <h3 align="center"><b><i>Subscribe to Our YouTube Channels:-</i></b>
