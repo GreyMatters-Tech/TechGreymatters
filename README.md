@@ -22,9 +22,9 @@
 
 <h3 align="center"><b><i>Join us on Telegram :-</i></b>
 <h3 align="center"><a href="https://www.telegram.dog/GreyMatter_Bots">
-    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Tech-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
 <a href="https://www.telegram.dog/GreyMatter_Support">
-  <img src="https://img.shields.io/badge/Join Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
+  <img src="https://img.shields.io/badge/Support Group-blue?logo=telegram" width="200" height="30">&nbsp;
   </a>
 
 <h3 align="center"><b><i>Subscribe to Our YouTube Channels:-</i></b>
@@ -33,9 +33,6 @@
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersYT"> <img src="https://img.shields.io/youtube/channel/subscribers/UCKmxefKrj5UKCHjZx7dsdpA?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 <h3 align="center">
-<a href="https://www.youtube.com/@GreyMattersBot">
-    &nbsp;<img src="https://img.shields.io/badge/GreyMatter's Bot-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
-<a href="https://youtube.com/@GreyMattersBot"> <img src="https://img.shields.io/youtube/channel/subscribers/UCaDNZ02UYe0GsM5Ob0jE82g?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 
 <h3 align="center">
   <b><i>Languages, Tools, clouds and familiar os:-</i></b>
@@ -53,10 +50,6 @@
 </p>
 
 <h3><b><i>📡 Get in Touch :-</i></b></h3>
-<a href="https://github.com/Greymattersbot"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://www.telegram.dog/GreyMatter_Owner"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
-<a href="https://www.instagram.com/greymatters_moksh.658"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
-<a href="https://twitter.com/GreyMatters_658"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
 <a href="https://superprofile.bio/greymatters"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/IMG_20230123_144614_022.png" /></a>
 
 <br>
