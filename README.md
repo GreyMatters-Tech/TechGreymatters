@@ -50,7 +50,7 @@
 </p>
 
 <h3><b><i>📡 Get in Touch :-</i></b></h3>
-<a href="https://superprofile.bio/greymatters"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/IMG_20230123_144614_022.png" /></a>
+<a href="https://superprofile.bio/greymatters"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/20230611_150731.png" /></a>
 
 <br>
 <br>
