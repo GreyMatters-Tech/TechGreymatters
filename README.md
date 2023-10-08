@@ -29,7 +29,7 @@
 
 <h3 align="center"><b><i>Subscribe to Our YouTube Channels:-</i></b>
 <h3 align="center">
-<a href="https://www.youtube.com/@GreyMattersYT">
+<a href="https://www.youtube.com/@GreyMattersTech">
     &nbsp;<img src="https://img.shields.io/badge/GreyMatter's YT-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://youtube.com/@GreyMattersYT"> <img src="https://img.shields.io/youtube/channel/subscribers/UCKmxefKrj5UKCHjZx7dsdpA?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/> </a>
 <h3 align="center">
@@ -50,7 +50,7 @@
 </p>
 
 <h3><b><i>📡 Get in Touch :-</i></b></h3>
-<a href="https://superprofile.bio/greymatters"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/20230611_150731.png" /></a>
+<a href="https://dub.sh/GreyMattersTech"><img align="left" title="SuperProfile" alt="SuperProfile" width="30px" src="assets/20230611_150731.png" /></a>
 
 <br>
 <br>
